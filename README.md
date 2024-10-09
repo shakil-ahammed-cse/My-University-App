@@ -1,0 +1,1 @@
+This is My First Android application built using Java that integrates my University's resources through its official URL. <br> Through this app i can access my University's webpage easily. (Internet Mandatory)
